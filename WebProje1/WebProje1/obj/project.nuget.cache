@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cp+e6iSnbFzZe1aG8NcfNq1jpGtXf+2q0Pl3hCZfQQlgRDtHewz6J6t+pTqJAgxIIX+bPObTanydT6NiLRAKOg==",
+  "dgSpecHash": "3IGp8GkLW//FJJNKwk9LfRJuYMc7eMlsPiVTfuqNPd44xlqpfVqxhqj0c1qQnWWu0Zy/BNI7Oqpxv243GGQ8gw==",
   "success": true,
-  "projectFilePath": "D:\\git\\oyun\\oyun\\WebProje\\WebProje1\\WebProje1\\WebProje1.csproj",
+  "projectFilePath": "D:\\git\\oyun\\oyun\\WebProje\\Web-Proje\\WebProje1\\WebProje1\\WebProje1.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\mertt\\.nuget\\packages\\azure.core\\1.24.0\\azure.core.1.24.0.nupkg.sha512",
     "C:\\Users\\mertt\\.nuget\\packages\\azure.identity\\1.6.0\\azure.identity.1.6.0.nupkg.sha512",
